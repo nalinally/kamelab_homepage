@@ -1,2 +1,5 @@
-# kamelab_homepage
-homepage of Kamehama laboratory
+# kamelab_homepage について
+
+このリポジトリは、沖縄高専亀濱研究室のホームページを作るためのものです。
+
+※これからいろいろ運用のルールなどを追記していく予定です
