@@ -53,3 +53,9 @@ git push
 コミットメッセージは、何を変更したのかを書きましょう！
 
 例）main.cssを変えて、亀ちゃんの名前をいい感じに四角で囲った
+
+### 4. ページを確認する
+
+以下のリンクから確認できます！
+
+https://github.com/nalinally/kamelab_homepage
