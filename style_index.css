@@ -1,3 +1,13 @@
+/*zen丸ゴシックを読み込めるようにする*/
+@font-face {
+    font-family: "zenmarugothic";
+    src: url("fonts/Zen_Maru_Gothic/ZenMaruGothic-Light.ttf");
+}
+
+body{
+    font-family: "zenmarugothic";
+}
+
 .tab{
     display: flex;
     flex-wrap: wrap;
