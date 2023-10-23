@@ -58,4 +58,4 @@ git push
 
 以下のリンクから確認できます！
 
-https://github.com/nalinally/kamelab_homepage
+https://nalinally.github.io/kamelab_homepage/
