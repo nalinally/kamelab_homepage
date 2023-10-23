@@ -1,0 +1,42 @@
+.tab{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tab li{
+    list-style: none;
+}
+
+.tab li a{
+    display: block;
+    background: #ddd;
+    margin: 0 2px;
+    padding: 10px 20px;
+}
+
+.tab li.active a{
+    background: #fff;
+}
+
+.area{
+    display: none;
+    opacity: 0;
+    background-color: #fff;
+    padding: 50px 20px;
+}
+
+.area.is-active{
+    display: block;
+    animation-name: displayAnime;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes displayAnime{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}

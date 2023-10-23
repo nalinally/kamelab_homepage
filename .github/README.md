@@ -59,3 +59,15 @@ git push
 以下のリンクから確認できます！
 
 https://nalinally.github.io/kamelab_homepage/
+
+## tips
+
+いろんな機能の実装が詰まってる　神
+
+https://coco-factory.jp/ugokuweb/
+
+Devtoolというのがデバッグにめっちゃ便利。ブラウザでF12キーを押して、
+
+![](images/devtool.png)
+
+赤丸で囲ったボタンを押すと、カーソル合わせたとこのmarginとかがどうなってるのかが一目でわかる
